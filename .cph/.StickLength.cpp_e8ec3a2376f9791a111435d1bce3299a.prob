@@ -1,0 +1,1 @@
+{"name":"Local: StickLength","url":"d:\\Code\\CP\\cses\\SortingSearching\\StickLength.cpp","tests":[{"id":1688760776674,"input":"5\n2 3 1 5 2","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\CP\\cses\\SortingSearching\\StickLength.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: MaxSubarraySum","url":"d:\\Code\\CP\\cses\\SortingSearching\\MaxSubarraySum.cpp","tests":[{"id":1688758757652,"input":"2\n-3 -2","output":"-2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\CP\\cses\\SortingSearching\\MaxSubarraySum.cpp","group":"local","local":true}
