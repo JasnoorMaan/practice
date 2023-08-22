@@ -34,3 +34,21 @@ One possible approach to solve this problem is to use a multiset or a priority q
 ## Note
 
 This problem is part of the CSES Problem Set and can be found at: [Concert Tickets - CSES Problem Set](https://cses.fi/problemset/task/1091)
+
+## Ferris Wheel
+
+In this example, there are 4 children and the maximum weight limit per gondola is 10. The children's weights are 7, 2, 3, and 9. The gondolas can be loaded as follows: [7, 2], [3], [9].
+
+## Approach
+
+One possible approach to solve this problem is to sort the list of children's weights and then use two pointers to find pairs of children that can ride together within the weight limit.
+
+## Constraints
+
+- 1 ≤ n ≤ 2 * 10^5
+- 1 ≤ x ≤ 10^9
+- 1 ≤ child's weight ≤ 10^9
+
+## Note
+
+This problem is part of the CSES Problem Set and can be found at: [Ferris Wheels - CSES Problem Set](https://cses.fi/problemset/task/1090)
